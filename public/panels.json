@@ -1,0 +1,6 @@
+{
+  "logic": "http://panels-app.dev/app.js",
+  "module": {
+    "name": "panels-app"
+  }
+}

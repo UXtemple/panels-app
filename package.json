@@ -1,0 +1,15 @@
+{
+  "name": "panels-app",
+  "main": "index.js",
+  "author": "Dario Javier Cravero <dario@uxtemple.com>",
+  "license": "MIT",
+  "scripts": {
+    "bundle": "NODE_ENV=production pacpan bundle",
+    "start": "sudo NODE_ENV=development pacpan start"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "pacpan": "^2.0.0",
+    "panels": "^9.0.0"
+  }
+}
